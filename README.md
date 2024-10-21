@@ -1,4 +1,4 @@
-# TurboWarp Packager
+# WarpMod Packager
 
 https://packager.turbowarp.org/
 
